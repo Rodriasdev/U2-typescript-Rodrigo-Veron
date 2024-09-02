@@ -1,5 +1,5 @@
-class Car3 {
-    private make:string = ""
+export class Car3 {
+    private make:string
     constructor(make:string){
         this.make = make
     };

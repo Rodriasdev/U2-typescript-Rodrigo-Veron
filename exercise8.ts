@@ -1,5 +1,5 @@
 class Car2 {
-    make:string = ""
+    make:string
     constructor(make:string){
         this.make = make
     };
